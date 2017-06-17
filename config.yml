@@ -1,0 +1,4 @@
+ingestor:
+  channel: 'transportation'
+  endpoint: 'wss://open-data.api.satori.com'
+  apikey: 'FF8FdfD3Bc1DdEd0E6EE7A6C0cED70eE'
