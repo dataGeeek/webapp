@@ -1,4 +1,0 @@
-ingestor:
-  channel: 'RT-GTFS-TriMet'
-  endpoint: 'wss://open-data.api.satori.com'
-  apikey: 'CdEb59DFfB54feeb6Ab4a3fDCDcE6A2F'
