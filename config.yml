@@ -1,4 +1,4 @@
 ingestor:
-  channel: 'transportation'
+  channel: 'RT-GTFS-TriMet'
   endpoint: 'wss://open-data.api.satori.com'
-  apikey: 'FF8FdfD3Bc1DdEd0E6EE7A6C0cED70eE'
+  apikey: 'CdEb59DFfB54feeb6Ab4a3fDCDcE6A2F'
